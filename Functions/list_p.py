@@ -1,0 +1,28 @@
+
+processed_strings = ['net-development', '3d-printing', 'asp-net', 'accounts', 'acting', 'aerospace', 
+                     'agriculture-and-food-engineering', 'analytics', 'anchoring', 'android-app-development', 
+                     'angular-js-development', 'animation', 'architecture', 'artificial-intelligence-ai', 'audio-making-editing', 
+                    #  'auditing', 'automobile-engineering', 'backend-development', 'bank', 'big-data', 'bioinformatics', 'biology', 
+                    #  'biotech', 'blockchain-development', 'blogging', 'brand-management', 'business-development', 'mba', 'ca-articleship', 
+                    #  'cad-design', 'cs-articleship', 'campus-ambassador', 'chartered-accountancy-ca', 'chemical', 'chemistry', 'cinematography', 
+                    #  'civil', 'client-servicing', 'cloud-computing', 'commerce', 'company-secretary-cs', 'computer-science', 'computer-vision', 
+                    #  'content-writing', 'copywriting', 'creative-design', 'creative-writing', 'customer-service', 'cyber-security', 'data-entry',
+                    #  'data-science', 'database-building', 'design', 'dietetics-nutrition', 'digital-marketing', 'e-commerce', 'editorial',
+                    #  'electrical', 'electronics', 'embedded-systems', 'energy-science-and-engineering', 'engineering', 'engineering-design',
+                    #  'engineering-physics', 'environmental-sciences', 'event-management', 'facebook-marketing', 'fashion-design', 'film-making', 
+                    #  'finance', 'flutter-development', 'front-end-development', 'full-stack-development', 'fundraising', 'game-design',
+                    #  'game-development', 'general-management', 'government', 'graphic-design', 'hospitality', 'hotel-management', 'hr',
+                    #  'humanities', 'image-processing', 'industrial-and-production-engineering', 'industrial-design', 'information-technology',
+                    #  'instrumentation-and-control-engineering', 'interior-design', 'international', 'internet-of-things-iot', 'java',
+                    #  'javascript-development', 'journalism', 'law', 'legal-research', 'machine-learning', 'manufacturing-engineering',
+                    #  'market-business-research', 'marketing', 'material-science', 'mathematics', 'mathematics-and-computing', 'mechanical',
+                    #  'mechatronics', 'media', 'medicine', 'merchandise-design', 'mobile-app-development', 'motion-graphics', 'music', 'ngo',
+                    #  'network-engineering', 'node-js-development', 'operations', 'php-development', 'pharmaceutical', 'photography', 'physics', 
+                    #  'political-economics-policy-research', 'product', 'programming', 'project-management', 'proofreading', 'psychology',
+                    #  'pr', 'python-django', 'quality-analyst', 'recruitment', 'robotics', 'ruby-on-rails', 'sales', 'science', 
+                    #  'search-engine-optimization-seo', 'social-media-marketing', 'social-work', 'software-development', 'software-testing',
+                    #  'sports', 'statistics', 'stock-market-trading', 'strategy', 'subject-matter-expert-sme', 'supply-chain-management-scm',
+                    #  'talent-acquisition', 'teaching', 'telecalling', 'transcription', 'translation', 'travel-and-tourism', 'ui-ux', 'video-making-editing', 
+                     'videography', 'volunteering', 'web-development', 'wordpress-development', 'ios-app-development']
+
+print("The number of elements in the list is:", len(processed_strings))
