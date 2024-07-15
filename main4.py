@@ -32,7 +32,7 @@ try:
     print("Selected options:", selected_options)
     
     # Write the selected options to list_p.py file
-    with open('Your_directory_location\Functions\list_p.py', 'w') as f:
+    with open('F:\major project\ws copy - Copy\Functions\list_p.py', 'w') as f:
         f.write("selected_options = " + str(selected_options))
 
 except Exception as e:
@@ -72,5 +72,5 @@ for item in selected_options:
     # print(processed_item)
 
 # Write the processed strings to list_p.py file
-with open('Your_directory_location\Functions\list_p.py', 'w') as f:
+with open('F:\major project\ws copy - Copy\Functions\list_p.py', 'w') as f:
     f.write("\nprocessed_strings = " + str(processed_strings))
