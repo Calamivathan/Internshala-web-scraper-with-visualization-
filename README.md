@@ -1,4 +1,4 @@
-# Project Name
+# Internshala  web scraper with visualization
 ![Internshala Logo](https://raw.githubusercontent.com/Calamivathan/Internshala-web-scraper-with-visualization-/main/Screenshots/Internshala%20logo.jpg)
 
 ## Overview
