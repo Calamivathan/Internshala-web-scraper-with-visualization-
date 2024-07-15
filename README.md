@@ -1,5 +1,5 @@
 # Project Name
-![Internshala Logo](Screenshots/Internshala logo.jpg)
+![Internshala Logo](Screenshots\Internshala logo.jpg)
 
 ## Overview
 
