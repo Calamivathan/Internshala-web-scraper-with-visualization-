@@ -1,5 +1,5 @@
 # Project Name
-![Internshala Logo](Screenshots\Internshala logo.jpg)
+![Internshala Logo](https://raw.githubusercontent.com/Calamivathan/Internshala-web-scraper-with-visualization-/main/Screenshots/Internshala%20logo.jpg)
 
 ## Overview
 
